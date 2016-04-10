@@ -1,7 +1,7 @@
 name: Hashplay
 favicon: null
-layout_spectrum: 0.09832136030308902
-typography_spectrum: 0.7579781899694353
+layout_spectrum: 1
+typography_spectrum: 1
 title: Hashplay
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#060709'
+    - '#ffffff'
+    - '#29762e'
+    - '#2f342d'
+    - '#779fc8'
   brandStrength: 0.13757406058721244
   lightness: 0.6540878831874579
   saturation: 0.15888346219435334
